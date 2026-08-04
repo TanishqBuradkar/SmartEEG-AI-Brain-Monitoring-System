@@ -1,0 +1,11 @@
+alpha,beta,theta,delta,state
+80,20,15,10,Relaxation
+30,90,20,10,Focus
+20,25,85,30,Drowsiness
+10,15,40,95,DeepSleep
+25,110,30,20,HighCognitive
+75,18,20,12,Relaxation
+35,100,18,15,Focus
+22,30,88,35,Drowsiness
+15,18,45,100,DeepSleep
+28,120,35,25,HighCognitive
